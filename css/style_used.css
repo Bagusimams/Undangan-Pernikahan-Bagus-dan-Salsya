@@ -453,10 +453,12 @@
 }
  #intro {
      padding-top: 40px;
-     background-image: url('../img/add-on/bg6.png');
+     background-image: url('../img/add-on/bg1.png');
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
+
+
 }
 
 #intro img{
@@ -1503,7 +1505,7 @@
 }
  #overlay {
     background: #ffffff;
-    background-image: url("../img/add-on/page113.jpg");
+    background-image: url("../img/add-on/BS-1.jpg");
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -3678,7 +3680,7 @@
     left: -100px;
   }
   #row0 {
-    background-image: url('../img/add-on/bg2.png');
+    background-image: url('../img/add-on/bg1.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -3687,45 +3689,45 @@
   }
   
 #row1{
-    background-image: url('../img/add-on/bg0.png');
+    background-image: url('../img/add-on/bg2.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 #invitation{
-    background-image: url('../img/add-on/c1.png');
+    background-image: url('../img/add-on/bg1.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 #a{
-    background-image: url('../img/add-on/c2.png');
+    background-image: url('../img/add-on/bg2.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 #events{
-    background-image: url('../img/add-on/bg5.png');
+    background-image: url('../img/add-on/bg1.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 #rsvp{
-    background-image: url('../img/add-on/bg42.jpg');
+    background-image: url('../img/add-on/bg2.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 #intro2 {
     padding-top: 40px;
-    background-image: url('../img/add-on/bg7.png');
+    background-image: url('../img/add-on/bg2.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .last-section {
-    background-image: url("../img/add-on/last.jpg");
+    background-image: url("../img/add-on/BS_fix.jpg");
     background-size: cover;
     background-position: center;
     min-height: 700px; /* adjust to your liking */
