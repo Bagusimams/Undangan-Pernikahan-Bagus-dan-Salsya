@@ -453,7 +453,7 @@
 }
  #intro {
      padding-top: 40px;
-     background-image: url('../img/add-on/bg1.png');
+     background-image: url('../img/add-on/bg3.png');
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
@@ -3680,7 +3680,7 @@
     left: -100px;
   }
   #row0 {
-    background-image: url('../img/add-on/bg1.png');
+    background-image: url('../img/add-on/bg2.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -3695,7 +3695,7 @@
     background-position: center;
 }
 #invitation{
-    background-image: url('../img/add-on/bg1.png');
+    background-image: url('../img/add-on/bg3.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -3707,13 +3707,13 @@
     background-position: center;
 }
 #events{
-    background-image: url('../img/add-on/bg1.png');
+    background-image: url('../img/add-on/bg3.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 #rsvp{
-    background-image: url('../img/add-on/bg2.png');
+    background-image: url('../img/add-on/bg6.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
