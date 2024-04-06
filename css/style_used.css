@@ -317,7 +317,7 @@
 }
  .hero {
      min-height: 450px;
-     background: url("../img/add-on/bg1.png") center center;
+     background: url("../img/add-on/bg1.webp") center center;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
@@ -455,7 +455,7 @@
 }
  #intro {
      padding-top: 40px;
-     background-image: url('../img/add-on/bg3.png');
+     background-image: url('../img/add-on/bg3.webp');
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
@@ -1279,7 +1279,7 @@
      position: relative;
 }
  .fh5co-video {
-     height: 450px;
+     height: 225px;
      overflow: hidden;
      -webkit-border-radius: 7px;
      -moz-border-radius: 7px;
@@ -2966,10 +2966,10 @@
 
 
  .row-pb-md {
-     padding-bottom: 4em !important;
+     padding-bottom: 0em !important;
 }
  .row-pb-sm {
-     padding-bottom: 2em !important;
+     padding-bottom: 0em !important;
 }
  .fh5co-loader {
      position: fixed;
@@ -3653,6 +3653,7 @@
     left: 0;
     width: 720;
     height: 480;
+    width: 100%;
   }
 
   #vidla {
@@ -3687,7 +3688,7 @@
     color: white !important; /* Change this to your desired color value */
 }
   #row0 {
-    background-image: url('../img/add-on/bg2.png');
+    background-image: url('../img/add-on/bg2.webp');
     background-repeat: no-repeat;
     background-size: cover;
     margin-right: 0;
@@ -3702,7 +3703,7 @@
   }
   
 #row1{
-    background-image: url('../img/add-on/bg2.png');
+    background-image: url('../img/add-on/bg2.webp');
     background-repeat: no-repeat;
     background-size: cover;
     margin-right: 0;
@@ -3714,7 +3715,7 @@
     background-position: center;
 }
 #invitation{
-    background-image: url('../img/add-on/bg3.png');
+    background-image: url('../img/add-on/bg3.webp');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 0;
@@ -3725,7 +3726,7 @@
     background-position: center;
 }
 #a{
-    background-image: url('../img/add-on/bg2.png');
+    background-image: url('../img/add-on/bg2.webp');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 0;
@@ -3736,7 +3737,7 @@
     background-position: center;
 }
 #events{
-    background-image: url('../img/add-on/bg3.png');
+    background-image: url('../img/add-on/bg3.webp');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 0;
@@ -3747,7 +3748,7 @@
     background-position: center;
 }
 #rsvp{
-    background-image: url('../img/add-on/bg6.png');
+    background-image: url('../img/add-on/bg6.webp');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 0;
@@ -3759,7 +3760,7 @@
 }
 #intro2 {
     padding-top: 40px;
-    background-image: url('../img/add-on/bg2.png');
+    background-image: url('../img/add-on/bg2.webp');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 0;
@@ -3774,7 +3775,7 @@
     background-image: url("../img/add-on/BS_fix.jpg");
     background-size: cover;
     background-position: center;
-    min-height: 700px; /* adjust to your liking */
+    min-height: 520px; /* adjust to your liking */
     display: flex;
     align-items: flex-end;
     justify-content: center;
