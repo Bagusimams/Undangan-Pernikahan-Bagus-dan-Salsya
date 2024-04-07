@@ -2,6 +2,7 @@
  @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,300italic,700,700italic);
  @import url(https://fonts.googleapis.com/css?family=Nunito:400,300,700);
  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
 
  p {
      font-size: 15px;
@@ -398,7 +399,13 @@
      color: #fff;
      padding-right: 25px;
      /* Ganti font navigation */
-     font-family: "Satisfy", Arial, serif;
+     font-family: "Tilt Neon", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+     font-variation-settings:
+       "XROT" 0,
+       "YROT" 0;
 }
  header ul.primary-nav li a:hover {
      color: #e8ca6f;
@@ -455,7 +462,7 @@
 }
  #intro {
      padding-top: 40px;
-     background-image: url('../img/add-on/bg5.webp');
+     background-image: url('../img/add-on/bg5.png');
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
@@ -2980,8 +2987,8 @@
      position: fixed;
      left: 0px;
      top: 0px;
-     width: 100%;
-     height: 100%;
+     width: 50%;
+     height: 50%;
      z-index: 9999;
      background: url(../img/add-on/) center no-repeat #fff;
 }
@@ -3708,7 +3715,7 @@
   }
   
 #row1{
-    background-image: url('../img/add-on/bg4.webp');
+    background-image: url('../img/add-on/bg4.png');
     background-repeat: no-repeat;
     background-size: cover;
     margin-right: 0;
