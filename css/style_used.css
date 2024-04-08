@@ -383,10 +383,11 @@
 }
  header .logo {
      display: inline-block;
+
      top: 0;
 }
  header .logo img {
-     height: 33px;
+     height: 45px;
 }
  header ul.primary-nav {
      margin: 0 0 0 75px;
@@ -3760,7 +3761,7 @@
     background-position: center;
 }
 #rsvp{
-    background-image: url('../img/add-on/bg6.webp');
+    background-image: url('../img/add-on/bg6.png');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 0;

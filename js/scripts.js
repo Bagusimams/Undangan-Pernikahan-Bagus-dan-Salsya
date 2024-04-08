@@ -187,20 +187,20 @@ $(document).ready(function () {
             title: "Pernikahan Bagus dan Salsya",
 
             // Event start date
-            start: new Date('May 18, 2023 11:00'),
+            start: new Date('April 20, 2024 11:00'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('May 18, 2023 13:00'),
+            end: new Date('April 20, 2024 14:00'),
 
             // Event Address
-            address: 'Rajawali Ballroom Hotel 21, Jl. MT. Haryono Jl. Jajar Barat No.137, Jajar, Purwodadi, Kec. Purwodadi, Kab. Grobogan, Jawa Tengah 58111',
+            address: 'Jalan Riung Rangga Ciater Highland Resort KM 18, Lembang, Ciater, Bandung, Indonesia',
 
             // Event Description
-            description: "Bismillahirrahmanirrahim \n\nKami mengundang Bapak/Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah acara resepsi akan diadakan pada 20 April 2024 pukul 11:00 sampai dengan 13:00. \n\nKami tidak sabar untuk dapat melihat Anda di hari besar kami. :) \n \nSalam Hangat, \nBagus dan Salsya"
+            description: "Bismillahirrahmanirrahim \n\nKami mengundang Bapak/Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah acara resepsi akan diadakan pada 20 April 2024 pukul 11:00 sampai dengan 14:00. \n\nKami tidak sabar untuk dapat melihat Anda di hari besar kami. :) \n \nSalam Hangat, \nBagus dan Salsya"
         }
     });     
 
@@ -214,7 +214,7 @@ $(document).ready(function () {
 
             $('#alert-wrapper').html(alert_markup('info', '<strong>Just a sec!</strong> We are saving your details.'));
             
-                $.post('https://script.google.com/macros/s/AKfycbwUTcQJULUO7-zJ-3_CHI9VuggPgNvnm7ZliImnw0jfadk6K3NQr6AL5bd4r0V3zmhd/exec', data)
+                $.post('https://script.google.com/macros/s/AKfycbyc4pwOfcO9G-1_BgP-l5s8_hevZeGX7WMA1hf2N-UnGtRNwaqhC171MgdZCvHcJh1BnQ/exec', data)
                     .done(function (data) {
                         console.log(data);
                         if (data.result === "error") {
